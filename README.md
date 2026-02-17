@@ -31,9 +31,4 @@ This project contains a Python script (`temperature_analysis.py`) designed to an
 * **Input:** `[28, 32, 35, 40, 31, 33, 30]`
 * **Output:** Hot Days before alert: 2, Alert on Day 4.
 
-## How to Run
-1. Ensure you have Python installed on your system.
-2. Navigate to the directory containing the file.
-3. Run the following command in your terminal or command prompt:
-
-```bash
+THANK YOU
